@@ -15,7 +15,7 @@
 
 - **DevOps & Cloud:**  Docker, Linux, SSH, AWS (IAM, S3, EC2, Lambda), GitHub Actions, Kubernetes, Terraform  
 
-- **Testing:**  Vitest, Playwright  
+- **Testing:**  Vitest, Jest, React Testing Library, Playwright  
 
 - **Web Scraping:**  Beautiful Soup, XPath, Selenium, Scrapy  
 
