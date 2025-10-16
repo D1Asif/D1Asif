@@ -11,7 +11,9 @@
 
 - **Frontend:**  HTML, CSS, Tailwind CSS, React, Next.js, Redux, Hero UI, Shadcn, Ant Design  
 
- - **Backend:**  Node.js, Express, NestJS, FastAPI, GraphQL  
+ - **Backend:**  Node.js, Express, NestJS, FastAPI, GraphQL
+   
+ - **DataBase:** MongoDB, Postgres, MySQL, Pinecone
 
 - **DevOps & Cloud:**  Docker, Linux, SSH, AWS (IAM, S3, EC2, Lambda), GitHub Actions, Kubernetes, Terraform  
 
