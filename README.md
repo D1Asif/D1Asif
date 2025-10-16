@@ -13,7 +13,7 @@
 
  - **Backend:**  Node.js, Express, NestJS, FastAPI, GraphQL
    
- - **DataBase:** MongoDB, Postgres, MySQL, Pinecone
+ - **Database:** MongoDB, Postgres, MySQL, Pinecone, Mongoose (ODM), Prisma (ORM)
 
 - **DevOps & Cloud:**  Docker, Linux, SSH, AWS (IAM, S3, EC2, Lambda), GitHub Actions, Kubernetes, Terraform  
 
